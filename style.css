@@ -124,11 +124,7 @@ section{
   margin: 20px 0;
   font-size: var(--h1-font);
 }
-.home-text h1 span{
-  background: -webkit-linear-gradient(153deg, #e1bac5 0%, var(--main-color) 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
+
 .home-text h4{
   font-size: 22px;
   font-weight: 500;
@@ -237,11 +233,15 @@ header.sticky{
   margin: 22px 0;
   font-size: var(--h2-font);
 }
-.about-text h2 span{
-  background: -webkit-linear-gradient(135deg, #e1bac5 0%, var(--main-color) 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+.services h5{
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 1.7;
+  margin-bottom: 30px;
 }
+
+
+
 .services-left p{
   font-size: var(--p-font);
   font-weight: 500;

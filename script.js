@@ -24,4 +24,3 @@ var typed = new Typed(".input", {
   loop:true
 })
 
-
